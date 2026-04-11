@@ -7,7 +7,7 @@
 import random
 
 participantes=["Juan", "Julian", "Sofia", "Amadis" ]
-#            =[   1       2         3        4     ]
+#            =[   0       1         2        3     ]
 
 numero_aleatorio=random.randint(0,3)  # 0, 1, 2, 3
 print(numero_aleatorio)
